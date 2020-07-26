@@ -61,10 +61,6 @@ const Home = props => {
           }
     }
 
-    useEffect(() => {
-
-        console.log(usario)
-    }, [])
     return (
         <>
             <div className="container mt-3">
